@@ -10,5 +10,4 @@ public class ProxyTest {
         Sourceable source = new Proxy();
         source.method();
     }
-
 }
